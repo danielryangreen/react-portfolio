@@ -1,5 +1,8 @@
 import React, { Component } from "react";
+import Header from "./Header";
 import NavTabs from "./NavTabs";
+import Jumbotron from "./Jumbotron";
+import Footer from "./Footer";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
@@ -26,11 +29,15 @@ class PortfolioContainer extends Component {
   render() {
     return (
       <div className="container">
-        <NavTabs
-          currentPage={this.state.currentPage}
-          handlePageChange={this.handlePageChange}
-        />
+        <Header>
+          <NavTabs
+            currentPage={this.state.currentPage}
+            handlePageChange={this.handlePageChange}
+          />
+          <Jumbotron />
+        </Header>
         {this.renderPage()}
+        <Footer />
       </div>
     );
   }

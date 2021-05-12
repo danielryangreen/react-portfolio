@@ -7,14 +7,14 @@
 
 .jumbotron h1 {
   background-color: slategray;
-  opacity: 90%;
+  opacity: 0.9;
   color: white;
   padding-left: 16px;
 }
 
 .jumbotron p {
   background-color: slategray;
-  opacity: 90%;
+  opacity: 0.9;
   color: white;
   padding-left: 16px;
 }

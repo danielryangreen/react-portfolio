@@ -12,7 +12,6 @@ const About = () => (
     <p>I moved to Salt Lake City in 2008 to be the Schedule Manager for the Utah Transit Authority's West Valley and Airport TRAX projects. I met my wife and decided to stay here. After the UTA projects were finished, I worked in project controls for Williams Northwest Pipeline for about 5 years and then joined HDR in 2017.</p>
     <p>In March 2020, I started teaching myself Excel VBA and building an application to analyze data from Primavera P6. I discovered that I really enjoy coding and wanted to learn more. I am currently a part-time student at the University of Utah Professional Education Coding Boot Camp. I expect to graduate in May 2021 with a certificate in full stack web development.</p>
     <p>When I am not scheduling or coding, I enjoy rock climbing, skiing, and backpacking with my wife. Utah is a great place to live with a lifetime of outdoor adventures.</p>
-
   </div>
 );
 

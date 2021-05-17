@@ -8,11 +8,43 @@
     "repo": "https://github.com/JordonBobo/MiddleEarthSupplier"
   },
   {
-    "id": 13,
-    "image": "EatDaBurger.png",
-    "title": "Eat-Da-Burger",
-    "text": "Full stack application with MySQL, Node, Express, Handlebars, and a homemade ORM following the MVC design pattern.",
-    "link": "https://dry-bastion-75967.herokuapp.com/",
-    "repo": "https://github.com/danielryangreen/burger"
+    "id": 12,
+    "image": "schema.png",
+    "title": "Employee Tracker",
+    "text": "Command-line CMS for tracking employees, roles, and departments using Node.js, Inquirer, and MySQL.",
+    "link": "https://drive.google.com/file/d/1PYQ8HtZw2BUY6kcZMSZooEvROszix6J-/view",
+    "repo": "https://github.com/danielryangreen/employee-tracker"
+  },
+  {
+    "id": 10,
+    "image": "SampleWebpage.png",
+    "title": "Team Generator",
+    "text": "Node.js command-line application that generates an HTML webpage. Uses Jest for running unit tests and Inquirer for collecting user input.",
+    "link": "https://drive.google.com/file/d/1JYnEdhZ_4Uij9Ta3MODossJgsqY3LbSB/view",
+    "repo": "https://github.com/danielryangreen/team-generator"
+  },
+  {
+    "id": 7,
+    "image": "ParkHopper.png",
+    "title": "Park Hopper",
+    "text": "Search for national parks using the NPS API and view their locations in Google Maps.",
+    "link": "https://davidsackett14.github.io/TrailHelperSite/",
+    "repo": "https://github.com/davidsackett14/TrailHelperSite"
+  },
+  {
+    "id": 6,
+    "image": "WeatherDashboard.png",
+    "title": "Weather Forecast",
+    "text": "Dashboard to retrieve weather data for cities using the OpenWeather API.",
+    "link": "https://danielryangreen.github.io/weather-forecast/",
+    "repo": "https://github.com/danielryangreen/weather-forecast"
+  },
+  {
+    "id": 4,
+    "image": "CodeQuiz.gif",
+    "title": "Code Quiz",
+    "text": "Timed JavaScript quiz with multiple-choice questions.",
+    "link": "https://danielryangreen.github.io/code-quiz/",
+    "repo": "https://github.com/danielryangreen/code-quiz"
   }
 ]

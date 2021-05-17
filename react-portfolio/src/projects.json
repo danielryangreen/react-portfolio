@@ -1,7 +1,7 @@
 [
   {
     "id": 15,
-    "image": "MiddleEarthSupplier",
+    "image": "MiddleEarthSupplier.jpg",
     "title": "Middle Earth Supplier",
     "text": "Template for a retail store which uses fictional products to demonstrate the functionality. Backed by a MySQL database with a Sequelize ORM. Uses Passport for user authentication.",
     "link": "https://middleearthsupplier.herokuapp.com/",
@@ -9,7 +9,7 @@
   },
   {
     "id": 13,
-    "image": "EatDaBurger",
+    "image": "EatDaBurger.png",
     "title": "Eat-Da-Burger",
     "text": "Full stack application with MySQL, Node, Express, Handlebars, and a homemade ORM following the MVC design pattern.",
     "link": "https://dry-bastion-75967.herokuapp.com/",

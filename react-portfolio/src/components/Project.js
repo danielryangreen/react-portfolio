@@ -1,12 +1,10 @@
 import React from "react";
-import MiddleEarthSupplier from "../images/MiddleEarthSupplier.jpg";
-import EatDaBurger from "../images/EatDaBurger.png";
 
 function Project(props) {
   return (
     <div className="col">
       <article className="card h-100">
-        <img src={props.image} className="card-img-top" alt="screenshot" />
+        <img src={require("../images/" + props.image).default} className="card-img-top" alt="screenshot" />
         <div className="card-body">
           <h5 className="card-title">{props.title}</h5>
           <p className="card-text">{props.text}</p>

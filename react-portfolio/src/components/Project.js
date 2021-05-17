@@ -10,8 +10,8 @@ function Project(props) {
           <p className="card-text">{props.text}</p>
         </div>
         <div className="card-footer">
-          <a target="_blank" href={props.link} className="btn btn-primary">Deployed App</a>
-          <a target="_blank" href={props.repo} className="btn btn-primary">GitHub Repo</a>
+          <a target="_blank" href={props.link} className="card-link">Deployed App</a>
+          <a target="_blank" href={props.repo} className="card-link">GitHub Repo</a>
         </div>
       </article>
     </div>

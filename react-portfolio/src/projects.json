@@ -1,5 +1,21 @@
 [
   {
+    "id": 23,
+    "image": "Envelopes.png",
+    "title": "Envelopes",
+    "text": "Simple envelope budgeting app using React, Recoil, and ChartJS.",
+    "link": "https://cash-envelopes.herokuapp.com/",
+    "repo": "https://github.com/gerrissgailey/envelopes"
+  },
+  {
+    "id": 19,
+    "image": "RandomUser.png",
+    "title": "Random User",
+    "text": "Employee directory with React that has a table of random users generated from the Random User API.",
+    "link": "https://danielryangreen.github.io/random-user/",
+    "repo": "https://github.com/danielryangreen/random-user"
+  },
+  {
     "id": 15,
     "image": "MiddleEarthSupplier.jpg",
     "title": "Middle Earth Supplier",
